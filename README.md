@@ -12,4 +12,4 @@ Each player rolls a dice and the higher roll wins the round.
 HTML · CSS · JavaScript
 
 ## Live Demo
-[Play here]([your-github-pages-link](https://kumud2080.github.io/Dice-Duel-/))
+[Play here](https://kumud2080.github.io/Dice-Duel-/)
